@@ -12,3 +12,5 @@ def maxSubArraySum(a,n):
 # a = [4, -2, -1, 1, 5] 
 a = [1, -2, 3, 4]
 print"Maximum contiguous sum is" , maxSubArraySum(a,len(a))
+
+print("pop stach test")
