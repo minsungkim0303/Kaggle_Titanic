@@ -1,2 +1,1 @@
-# Coding
-나의 놀이터
+# Titanic: Machine Learning from Disaster
